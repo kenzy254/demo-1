@@ -1,35 +1,105 @@
 {
-  "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+  "total_size": 6,
+  "type_id": 2,
+  "offset": 0,
+  "products": [
+    {
+      "id": 1,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
     },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+    {
+      "id": 2,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
     },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
+    {
+      "id": 3,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
     },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
+    {
+      "id": 4,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
     },
-    "isDraft": {
-      "boolean": {}
+    {
+      "id": 5,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
     },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
+    {
+      "id": 6,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
+    },
+    {
+      "id": 8,
+      "name": "Luxerious Three Bedroom",
+      "description": "Located in the east coast",
+      "price": 12,
+      "stars": 4,
+      "img": "assets/images/house2.jpeg",
+      "location": "Kenya",
+      "created_at": "2022-10-17 11:30:56",
+      "undated at": "2022-10-29 08:50:30",
+      "type_id": 2
     }
-  }
+      
+  ]
+  
 }
